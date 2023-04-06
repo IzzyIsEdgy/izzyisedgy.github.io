@@ -5,15 +5,15 @@
 ### Semester 1 Projects 
 
 [Let's Make Pie](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- Let's Make Pie is a text based adventure game exploring a small town looking for pie ingredients. The project uses the C# programming fundimentals of encapsulation, inheritence, and polymorphism. 
 
 ---
-[Adopt-A-Robot](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Trivia Game](/pdf/sample_presentation.pdf)
+- The Trivia Game uses external files to run a randomized triva game. Those playing get a point for each question answered correctly.
 
 ---
 [Cumulative Verse Song](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- This project focuses on loops and using them to write out lyrics to the song "12 days of Christmas". 
 
 ---
 
